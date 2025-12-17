@@ -6,4 +6,5 @@ This repository contains my day-wise learning and practice files as I build a st
 
 ## Structure
 - day-1: HTML basics, tags, elements
-- day-2: (coming soon)
+- day-2: Links, id, class, image, attribute
+- Day 3: lists, nested lists, semantic layout
