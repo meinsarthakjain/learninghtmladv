@@ -1,4 +1,4 @@
-# HTML Journey
+# HTML Learnings
 
 Learning HTML from absolute zero.
 
