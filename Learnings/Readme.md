@@ -2,7 +2,7 @@
 
 Learning HTML from absolute zero.
 
-This repository contains my day-wise learning and practice files as I build a strong foundation in HTML.
+This folder contains my day-wise learning progress
 
 ## Structure
 - day-1: HTML basics, tags, elements
