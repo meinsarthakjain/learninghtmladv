@@ -10,3 +10,5 @@ This folder contains my day-wise learning progress
 - Day 3: lists, nested lists, semantic layout
 - Day 4: HTML forms, labels, inputs, submit
 - Day 5: HTML form validation and accessibility
+- Day 6: Correct semantic structure with articles, section, and aside
+
