@@ -11,6 +11,8 @@ This repository contains my day-wise learning and practice files as I build a st
 - Day 3: lists, nested lists, semantic layout          (17 December 2025)
 - Day 4: HTML forms, labels, inputs, submit            (18 December 2025)
 - Day 5: HTML form validation and accessibility        (19 December 2025)
+- Day 6: Correct semantic structure with articles, section, and aside (20 December 2025)
+
 
 ### Projects
 (not yet)
