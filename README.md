@@ -12,6 +12,7 @@ This repository contains my day-wise learning and practice files as I build a st
 - Day 4: HTML forms, labels, inputs, submit            (18 December 2025)
 - Day 5: HTML form validation and accessibility        (19 December 2025)
 - Day 6: Correct semantic structure with articles, section, and aside (20 December 2025)
+- Day 7 : Heirarchy of Headings, improvement in articles and understanding (21 December 2025)
 
 
 ### Projects
