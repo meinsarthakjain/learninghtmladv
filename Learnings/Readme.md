@@ -11,4 +11,5 @@ This folder contains my day-wise learning progress
 - Day 4: HTML forms, labels, inputs, submit
 - Day 5: HTML form validation and accessibility
 - Day 6: Correct semantic structure with articles, section, and aside
+- Day 7 : Heirarchy of Headings, improvement in articles and understanding
 
