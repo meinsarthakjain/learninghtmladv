@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head> <title>Comparison</title> </head>
+    <body>
+
+<table>
+  <caption>Virat VS Rohit Stats</caption>
+<thead>
+<tr>
+<th >Stats</th>
+<th >Virat</th>
+<th >Rohit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td >ODI Century (100s)</td>
+  <td >53</td>
+  <td >33</td>
+</tr>
+
+<tr>
+  <td>Test Centuries</td>
+  <td> 30</td>
+  <td>12</td>
+</tr>
+
+<tr>
+  <td>Double Centuries</td>
+  <td>7</td>
+  <td>4</td>
+</tr>
+</tbody>
+</table>
+
+    </body>
+</html>
