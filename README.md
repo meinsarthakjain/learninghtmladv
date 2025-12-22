@@ -14,6 +14,7 @@ This repository contains my day-wise learning and practice files as I build a st
 - Day 6: Correct semantic structure with articles, section, and aside (20 December 2025)
 - Day 7 : Heirarchy of Headings, improvement in articles and understanding (21 December 2025)
 - Day 8: Tables                                       (22 December 2025) 
+- Day 9: Figures and Generic Containers, alt vs figcaption ( 23 December 2025)
 
 
 
