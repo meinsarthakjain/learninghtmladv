@@ -12,5 +12,6 @@ This folder contains my day-wise learning progress
 - Day 5: HTML form validation and accessibility
 - Day 6: Correct semantic structure with articles, section, and aside
 - Day 7: Heirarchy of Headings, improvement in articles and understanding
-- Day 8: Tables 
+- Day 8: Tables
+- Day 9: Figures and Generic Containers, alt vs figcaption
 
