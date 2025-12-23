@@ -15,6 +15,7 @@ This repository contains my day-wise learning and practice files as I build a st
 - Day 7 : Heirarchy of Headings, improvement in articles and understanding (21 December 2025)
 - Day 8: Tables                                       (22 December 2025) 
 - Day 9: Figures and Generic Containers, alt vs figcaption ( 23 December 2025)
+- Day 10: Wrap up (HTML BASICS) (24 December 2025)
 
 
 
