@@ -19,5 +19,5 @@ This repository contains my day-wise learning and practice files as I build a st
 
 
 ### Projects
-(not yet)
+- Project 1: by freecodecamp (24 December 2025)
 
